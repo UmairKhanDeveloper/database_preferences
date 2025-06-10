@@ -1,4 +1,4 @@
-package com.example.shared_preferences.pref
+package com.example.shared_preferences.pref_database
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

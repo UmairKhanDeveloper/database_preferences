@@ -1,6 +1,5 @@
-package com.example.shared_preferences.pref
+package com.example.shared_preferences.pref_database
 
-import android.preference.PreferenceDataStore
 import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.edit
